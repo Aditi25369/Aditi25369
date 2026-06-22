@@ -14,6 +14,7 @@ I build intelligent AI systems focused on:
 - ML Automation
 - Responsible AI
 
+
 🎓 BE in Artificial Intelligence & Data Science
 
 🧠 Completed 1-Year AI/ML Training Program at IIIT Dharwad
@@ -24,6 +25,7 @@ Focused on:
 - Deep Learning
 - Data Science
 - Applied ML Algorithms
+
 
 💼 AI Engineer Intern @ Vayavya Labs
 Working on AI/ML and Generative AI solutions.
