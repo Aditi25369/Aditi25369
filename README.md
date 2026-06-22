@@ -15,7 +15,9 @@ I build intelligent AI systems focused on:
 - Responsible AI
 
 🎓 BE in Artificial Intelligence & Data Science
+
 🧠 Completed 1-Year AI/ML Training Program at IIIT Dharwad
+
 Focused on:
 - Artificial Intelligence
 - Machine Learning
